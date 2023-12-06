@@ -12,7 +12,7 @@
 </head>
 
 <body>
-  
+
   <div class="container-fluid row">
 
 <script>
@@ -28,7 +28,7 @@
 <form class="col-3 p-3  " method="POST">
     <h3 class="text-center text-secundary ">Registro De Empleados</h3>
     <?php
-   
+    include "modelo/conexion.php";   
     include "controlador/registro_p.php";
     ?>
 

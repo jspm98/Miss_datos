@@ -12,10 +12,6 @@
 		<div class="btn-menu">
 			<label for="btn-menu">☰</label>
 		</div> 
-			<div  class="logo">
-				<h1>Logotipo</h1>
-			</div>
-			
 		</div>
 	</header>
 	<div class="capa"></div>
@@ -24,12 +20,12 @@
 <div class="container-menu">
 	<div class="cont-menu">
 		<nav>
-			<a href="inicio.php">registrar empleado</a>
-			<a href="#">registrar usuario</a>
-			<a href="#">gestionar empleados</a>
-			<a href="#">gestionar usuarios</a>
-			<a href="#">notificaciones</a>
-			<a href="login.php">cerrar sesiom</a>
+			<a href="inicio.php">Registrar Empleado</a>
+			<a href="#">Registrar Usuario</a>
+			<a href="#">Gestionar Empleados</a>
+			<a href="#">Gestionar Usuarios</a>
+			<a href="#">Notificaciones</a>
+			<a href="login.php">Cerrar sesion</a>
 		</nav>
     
 		<label for="btn-menu">✖️</label>
